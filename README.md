@@ -1,7 +1,7 @@
 # F3 Card dispenser collector with RFID card reader
 
 
-This module is an addons NodeJS that make a interface with lib of [F3 Card Dispenser].
+This module is a NodeJS addon that makes an interface with lib for the [F3 Card Dispenser].
 If you want have access to lib files and how i build this see [github repository] of this project.
 
 # Features
